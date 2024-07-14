@@ -2,7 +2,7 @@ Hi 👋 My name is Jonathan McQuarrie
 ===================================  
 Full-stack Web Developer
 ------------------------
-I've been learning to code for two years, after switching careers. I started with HTML and CSS, but soon discovered a love of back-end development as well after being introduced to the Ruby on Rails framework.
+I've been coding for two years, after switching careers. I started with HTML and CSS, but soon discovered a love of back-end development as well after being introduced to the Ruby on Rails framework.
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [My Portfolio](http://jmcquarr.github.io/portfolio/)
 * ✉️  You can contact me at [jmcquarr.dev@gmail.com](mailto:jmcquarr.dev@gmail.com)
