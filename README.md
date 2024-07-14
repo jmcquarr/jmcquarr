@@ -9,7 +9,7 @@ I've been coding for two years, after switching careers. I started with HTML and
 * 🚀  I'm currently working on [a Marketplace App](http://57.180.129.173)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on projects
-* ⚡  I can function without my morning coffee... but I don't want to!
+* ⚡  I can function without my morning coffee... I just don't want to!
 
 ### Skills  
 
